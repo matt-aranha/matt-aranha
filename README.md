@@ -3,8 +3,8 @@
 
 
 - 🖥️ I'm a **Computer Engineering student** at the Federal University of Sergipe (UFS)
-- 🌱 I'm learning: **JavaScript, CSS & HTML**
-- 💬 I'm always willing to learn new things!
+- 🌱 Now I'm studying: **JavaScript, CSS & HTML**
+- 💬 And I'm always willing to learn new things!
 
 #
 
