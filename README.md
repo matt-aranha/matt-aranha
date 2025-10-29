@@ -3,8 +3,9 @@
 
 
 - 🖥️ I'm a **Computer Engineering student** at the Federal University of Sergipe (UFS)
-- 🌱 Now I'm studying: **Java & ReactJs**
+- 🌱 Now I'm studying: **Java & C**
 - 💬 But I'm always willing to learn new things!
+<br>
 
 #
 
@@ -12,9 +13,11 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Java" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+    <img align="center" alt="C" height="70" width="100" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">
+    <img align="center" alt="Js" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="HTML" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 </div>
 
 #
