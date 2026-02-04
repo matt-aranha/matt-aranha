@@ -15,7 +15,7 @@
 <div style="display: inline_block"><br>
     <img align="center" alt="Java" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
     <img align="center" alt="C" height="70" width="100" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">
-    <img align="center" alt="Js" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="Js" height="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     <img align="center" alt="HTML" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 </div>
