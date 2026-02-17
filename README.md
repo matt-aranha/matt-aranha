@@ -11,7 +11,7 @@
 <div align="center">
   <samp>     
       
-#### I'm a <b>Computer Engineering Student</b> at the Federal University of Sergipe (UFS)
+### I'm a <b>Computer Engineering Student</b> at the Federal University of Sergipe (UFS)
 
    </samp>
 </div><br>
