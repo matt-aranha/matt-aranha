@@ -1,0 +1,17 @@
+[
+  {
+    "cyberpunk_purple": {
+      "darkMode": true,
+      "backgroundColor": "#071721",
+      "foregroundColor": "#3c238a",
+      "strongColor": "#9852d2",
+      "weakColor": "#3c238a",
+      "radarColor": "#89bae1",
+      "grade4": "#9852d2",
+      "grade3": "#7a42b0",
+      "grade2": "#5e3290",
+      "grade1": "#3c238a",
+      "grade0": "#071721"
+    }
+  }
+]
