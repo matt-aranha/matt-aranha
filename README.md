@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=5A0FC8"/>
+
 <div align="center">
   <samp>
         
@@ -33,6 +35,8 @@
 
 <p align="center">
   <picture>
-    <img alt="Cyberpunk Purple Theme" src="https://raw.githubusercontent.com/matt-aranha/matt-aranha/main/profile-3d-contrib/profile-cyberpunk-purple.svg" />
+    <img alt="Rainbow Theme" src="https://raw.githubusercontent.com/matt-aranha/matt-aranha/main/profile-3d-contrib/profile-night-rainbow.svg" />
   </picture>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=5A0FC8&section=footer"/>
