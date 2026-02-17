@@ -2,14 +2,14 @@
   {
     "fileName": "profile-cyberpunk-purple.svg",
     "backgroundColor": "transparent",
-    "foregroundColor": "#89bae1",
-    "strongColor": "#9852d2",
-    "weakColor": "#3c238a",
-    "radarColor": "#89bae1",
-    "grade4": "#9852d2",
-    "grade3": "#7a42b0",
-    "grade2": "#5e3290",
-    "grade1": "#3c238a",
-    "grade0": "#2d3342"
+    "foregroundColor": "#00f2ff",
+    "strongColor": "#ff00ff",
+    "weakColor": "#bd93f9",
+    "radarColor": "#00f2ff",
+    "grade4": "#ff00ff",
+    "grade3": "#d500f9",
+    "grade2": "#aa00ff",
+    "grade1": "#7c4dff",
+    "grade0": "#30363d"
   }
 ]
