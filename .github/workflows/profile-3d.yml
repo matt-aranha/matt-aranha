@@ -1,9 +1,9 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # Executa automaticamente às 18:00 UTC
+  schedule:
     - cron: "0 18 * * *"
-  workflow_dispatch: # Permite executar manualmente a qualquer momento
+  workflow_dispatch:
 
 jobs:
   build:
@@ -22,5 +22,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "generated"
+          git commit -m "generated custom cyberpunk theme"
           git push
