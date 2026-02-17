@@ -30,4 +30,11 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matt-aranha/matt-aranha/output-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matt-aranha/matt-aranha/output-3d-contrib/profile-day-rainbow.svg" />
+    <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/matt-aranha/matt-aranha/output-3d-contrib/profile-night-rainbow.svg" />
+  </picture>
+</p>
