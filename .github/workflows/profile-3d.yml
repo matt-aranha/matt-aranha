@@ -1,9 +1,9 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule:
+  schedule: # Executa automaticamente às 18:00 UTC
     - cron: "0 18 * * *"
-  workflow_dispatch:
+  workflow_dispatch: # Permite executar manualmente a qualquer momento
 
 jobs:
   build:
@@ -11,15 +11,14 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@main
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: profile-3d-contrib/cyberpunk-purple.json
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "generated with main branch"
+          git commit -m "generated"
           git push
