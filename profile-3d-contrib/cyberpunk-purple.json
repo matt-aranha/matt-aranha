@@ -1,8 +1,7 @@
 [
   {
     "fileName": "profile-cyberpunk-purple.svg",
-    "darkMode": true,
-    "backgroundColor": "#071721",
+    "backgroundColor": "transparent",
     "foregroundColor": "#89bae1",
     "strongColor": "#9852d2",
     "weakColor": "#3c238a",
@@ -11,6 +10,6 @@
     "grade3": "#7a42b0",
     "grade2": "#5e3290",
     "grade1": "#3c238a",
-    "grade0": "#112233"
+    "grade0": "#2d3342"
   }
 ]
