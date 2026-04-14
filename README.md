@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=c,cs,arduino,java,js,html,css" /><br>
     
   <h3><samp>Tools:</samp></h3>
-  <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,netlify,obsidian" />     
+  <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,netlify,obsidian,figma" />     
 </div>
 
 <!-- ========================================= -->
