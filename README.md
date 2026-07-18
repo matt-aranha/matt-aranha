@@ -22,10 +22,10 @@
 
 <div align="center">
   <h3><samp>Main Stack:</samp></h3>
-  <img src="https://skillicons.dev/icons?i=c,cs,arduino,verilog,java,js,html,css" /><br>
+  <img src="https://skillicons.dev/icons?i=c,cs,verilog,java,js,html,css" /><br>
     
   <h3><samp>Tools:</samp></h3>
-  <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,netlify,obsidian,figma" />     
+  <img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,arduino,netlify,obsidian,figma" />     
 </div>
 
 <!-- ========================================= -->
